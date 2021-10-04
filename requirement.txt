@@ -12,3 +12,5 @@ $ touch requirement.txt
 
 Models,Relation one to one and many to many relation,registering models in admin,registering Model admin etc
 Now i will be going to commit these CheatSheet
+
+$ git branch -M main
